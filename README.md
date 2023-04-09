@@ -18,3 +18,11 @@
 9: https://platform.openai.com
 
 10: https://skybox.blockadelabs.com/
+
+11: https://dezgo.com/text-inpainting
+
+12: https://replicate.com/nateraw/stable-diffusion-videos
+
+13: https://www.veed.io/
+
+
