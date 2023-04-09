@@ -26,6 +26,6 @@
 
 13: https://www.veed.io/
 
-14: https://www.bing.com/new?
+14: https://www.bing.com/new
 
 我会时不时更新
